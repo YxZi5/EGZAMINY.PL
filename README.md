@@ -1,0 +1,2 @@
+# EGZAMINY.PL
+Platforma egzaminacyjna.
