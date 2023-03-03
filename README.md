@@ -54,6 +54,6 @@ You can run application manualy by copying repository and upload all .php files 
 
 ## Authors 👨‍💻
 
-### [Yxzi5](https://github.com/YxZi5)
+### [Yxzi5](https://github.com/YxZi5) - Back-end Developer
 
-### [zimny-tech](https://github.com/zimny-tech)
+### [zimny-tech](https://github.com/zimny-tech) - Front-end Developer
