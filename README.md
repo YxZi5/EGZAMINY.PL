@@ -20,5 +20,5 @@ We provide an online testing platform open source that can be use for making tes
 
 - [MySQL](https://www.mysql.com/)
 - [PHP 8.0](https://www.php.net/)
-- [CSS] (https://www.w3.org/)
-- [HTML5] (https://html.com/)
+- [CSS](https://www.w3.org/)
+- [HTML5](https://html.com/)
