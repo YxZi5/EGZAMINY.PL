@@ -51,3 +51,9 @@ You can run application manualy by copying repository and upload all .php files 
 ```sh
   sudo docker-compose ps
 ```
+
+## Authors 👨‍💻
+
+### [Yxzi5](https://github.com/YxZi5)
+
+### [zimny-tech](https://github.com/zimny-tech)
