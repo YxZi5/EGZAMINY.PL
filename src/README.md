@@ -1,0 +1,1 @@
+EGZAMINY.md
