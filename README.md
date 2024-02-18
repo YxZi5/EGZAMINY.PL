@@ -1,5 +1,5 @@
 ## EGZAMINY.PL
-Platforma egzaminacyjna.
+Examination platform.
 
 <img src="/screenshots/main.png" alt="main_page">
 
