@@ -1,5 +1,6 @@
 ## EGZAMINY.PL
 Platforma egzaminacyjna.
+
 <img src="/screenshots/main.png" alt="main_page">
 
 ## About The Project
